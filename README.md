@@ -14,7 +14,6 @@ Buy the deck. I have three copies. It's wonderful.
 
 1. Make sure you have Python 3.9+
 1. `pip install requests beautifulsoup4 lxml pandas tqdm`
-1. Save the script below as tmh_tarot_scraper.py
 1. Run: `python tmh_tarot_scraper.py`
 
 Outputs:
