@@ -18,5 +18,5 @@ Buy the deck. I have three copies. It's wonderful.
 
 Outputs:
 
-`this_might_hurt_tarot.csv` — descriptions which you can import into a spreadsheet or into a database tool like Notion)
-`images/`
+- `this_might_hurt_tarot.csv` — descriptions which you can import into a spreadsheet or into a database tool like Notion)
+- `images/`
